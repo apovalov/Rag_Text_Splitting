@@ -1,6 +1,6 @@
 # 5 Levels Of Text Splitting
 
-Notebook with 5 aprroaches of text splitting for RAG 
+Notebook with 5 approaches of text splitting for RAG 
 
 <img width="700" alt="Screenshot 2024-03-14 at 22 41 31" src="https://github.com/apovalov/rag_text_splitting/assets/43651275/dfb4e8e9-d3d4-4f44-a602-97af1c77c9d6">
 
